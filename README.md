@@ -5,3 +5,4 @@ each module (eg. specific esp32) has its own folder, in which the code, its docu
 ### folder: doc/
 contains softlinks to documentation for each module documentation folder
 contains projectwhide design guidelines, documentation etc.
+A doc folder in some subfolder is to be relativly linked to from the /doc directory
