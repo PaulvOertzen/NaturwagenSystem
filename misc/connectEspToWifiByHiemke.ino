@@ -21,6 +21,11 @@ void setup() {
 }
 
 void loop() {
+
+    // For disconnected Mesage when wifi disconnected
+    if (WiFi.status() != WL_CONNECTED) {
+        Serial.println("WiFi Disconnected...")
+    }
   
   // put your main code here, to run repeatedly:
 
