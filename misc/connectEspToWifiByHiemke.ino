@@ -19,7 +19,7 @@ void ConnectToWifi() {
 void setup() {
     // put your setup code here, to run once:
   Serial.begin(115200); 
-  WiFi.begin(ssid, password)
+  WiFi.begin(ssid, password);
   ConnectToWifi();
 }
 
@@ -27,11 +27,10 @@ void loop() {
 
     // For disconnected Mesage when wifi disconnected
     if (WiFi.status() != WL_CONNECTED) {
-        Serial.println("WiFi Disconnected...")
+        Serial.println("WiFi Disconnected...");
         ConnectToWifi();
     }
   
   // put your main code here, to run repeatedly:
-
 
 }
