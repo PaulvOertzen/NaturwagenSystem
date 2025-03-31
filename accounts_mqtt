@@ -1,0 +1,6 @@
+user develop1  	psswd dev1
+user develop2	psswd dev2
+user develop3	psswd dev3
+user nodeRedProd	psswd nProd
+user nodeRedDev		psswd nDev
+
