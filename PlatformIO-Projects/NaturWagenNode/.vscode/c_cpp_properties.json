@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/alex/Dokumente/PlatformIO/Projects/NaturWagenNode/include",
-                "/home/alex/Dokumente/PlatformIO/Projects/NaturWagenNode/src",
+                "/home/alex/Nextcloud/Projekte/NaturwagenSystem/PlatformIO-Projects/NaturWagenNode/include",
+                "/home/alex/Nextcloud/Projekte/NaturwagenSystem/PlatformIO-Projects/NaturWagenNode/src",
                 "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/alex/Dokumente/PlatformIO/Projects/NaturWagenNode/include",
-                    "/home/alex/Dokumente/PlatformIO/Projects/NaturWagenNode/src",
+                    "/home/alex/Nextcloud/Projekte/NaturwagenSystem/PlatformIO-Projects/NaturWagenNode/include",
+                    "/home/alex/Nextcloud/Projekte/NaturwagenSystem/PlatformIO-Projects/NaturWagenNode/src",
                     "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/alex/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
