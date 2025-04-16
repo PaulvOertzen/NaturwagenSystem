@@ -13,6 +13,7 @@ For standart ESP with WiFi and MQTT capability, you can use the code from the mi
 # Authors
 - Hiemke, Michael
 - Lazarin, Niko
+- Huber, Alex
 - Luchner, Tobias
 - Mader, Barbara
 - von Oertzen, Paul
